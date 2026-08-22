@@ -1,13 +1,6 @@
-x=int(input("Enter the value of x:"))
-y=int(input('Enter the value of y:'))
-sum = int(x) + int(y)
-print("Sum of the x and y is :",sum)
+Number_1 = int(input("Enter the First Number:"))
+Number_2 = int(input('Enter the Second Number:'))
+sum = int(Number_1) + int(Number_2)
+print("Sum of both the numbers is :",sum)
 
-#this is a simple program to add two numbers provided by the user. It takes input for two integers, calculates their sum, and prints the result.
-
-a=int(input("Enter the value of a:"))
-b=int(input('Enter the value of b:'))
-difference = int(a) - int(b)
-print("Difference of the a and b is :",difference)
-
-#this is a simple program to subtract two numbers provided by the user. It takes input for two integers, calculates their difference, and prints the result.
+#This is a simple program to add two numbers provided by the user. It takes input for two integers, calculates their sum, and prints the result.
